@@ -35,3 +35,5 @@ print(emp_1.email)  #calling email as an attribute
 print(emp_1.fullname)  #calling fullname as an attribute
 
 del emp_1.fullname  #calling the deleter
+
+
